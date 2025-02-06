@@ -1,0 +1,6 @@
+Flask
+requests
+networkx
+neo4j
+pytest
+pytest-flask
